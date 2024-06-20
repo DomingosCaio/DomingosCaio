@@ -1,23 +1,6 @@
-# Caio Domingos
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+Caio+Domingos!+%E2%98%95%F0%9F%92%BB%F0%9F%8C%9;Desenvolvedor+Node.js" alt="Typing SVG">
+  </a>
+</p>
 
-<img src="https://nodejs.org/static/images/logo.svg" alt="NodeJs" width="100">
-
-## Sobre mim
-Atualmente, trabalho como desenvolvedor full stack Outsystems. Já trabalhei por 2 anos e 6 meses com ReactJs, NodeJs e TypeScript. Prossigo estudando e melhorando minhas habilidades com TypeScript e NodeJs.
-
-## Tecnologias
-
-### Outsystems
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/48/OutSystems_Logo.png" alt="Outsystems" width="100">
-
-### ReactJs
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="ReactJs" width="100">
-
-### NodeJs
-<img src="https://nodejs.org/static/images/logo.svg" alt="NodeJs" width="100">
-
-### PostgreSql
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSql" width="100">
-
-### Insomnia
-<img src="https://raw.githubusercontent.com/Kong/insomnia/develop/packages/insomnia-inso/app/static/icon.png" alt="Insomnia" width="100">
